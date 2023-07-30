@@ -1,5 +1,8 @@
 # Meal App
 
+Author: Ridham Pansuriya
+Maintainer: Ridham Pansuriya
+
 This repository contains code for a simple Meal App web application. The app allows users to search for meals, view meal details, and add favorite meals to a separate favorites page. The application is built using HTML, CSS, and JavaScript.
 
 ## Features
@@ -44,6 +47,10 @@ The app utilizes the following external libraries:
 ## Compatibility
 
 The app has been tested and verified to work on modern web browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Feedback and Contributions
 
