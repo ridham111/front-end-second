@@ -45,10 +45,6 @@ The app utilizes the following external libraries:
 
 The app has been tested and verified to work on modern web browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Feedback and Contributions
 
 If you have any feedback or suggestions for improvements, please feel free to create an issue or submit a pull request. Contributions to this project are welcome!
